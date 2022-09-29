@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 int actual_sqrt_recursion(int n, int i);
 
