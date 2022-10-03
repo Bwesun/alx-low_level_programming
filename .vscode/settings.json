@@ -2,5 +2,6 @@
     "files.associations": {
         "main.h": "c",
         "holberton.h": "c"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
